@@ -6,4 +6,5 @@ package com.itheima.pojo;
  * @Description:
  */
 public class User {
+    private Integer id;
 }
